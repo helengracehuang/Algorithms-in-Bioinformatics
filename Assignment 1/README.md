@@ -22,4 +22,5 @@ Problems:
 6. Counting DNA Nucleotides
 
 Extra Credit Problem: 
+
 7. Enumerating k-mers Lexicographically
